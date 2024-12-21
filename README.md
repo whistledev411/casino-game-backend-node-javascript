@@ -11,6 +11,6 @@ Casino Game backend provides a JSON REST API for clients and strong Security.
 
 ## 🌍Contact Me
 
-If you have any help or something, feel free to reach out me anytime via [Telegram](https://t.me/devbeast5775), [Discord](https://discordapp.com/users/345950945517109248) or [Twitter](https://x.com/lucky_whistle). <br>
+If you have any help or something, feel free to reach out me anytime via [Telegram](https://t.me/devbeast5775) <br>
 
 You're Always Welcome!!!🎊
